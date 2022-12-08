@@ -11,10 +11,9 @@
 <h2>About Me  <img src="https://user-images.githubusercontent.com/67817916/206413477-c3eb65d9-bb02-47d3-baa0-a99e580b3301.GIF" width="48px"></h2>
 
 <ul>
-  <li>👨‍💻 My website: <a href="/">https://hongdalin.me</a></li>
+  <li>👨‍💻 My website: <a href="https://hongdalin.me">https://hongdalin.me</a></li>
   <li>📫 How to reach me: <a href="mailto:linhongda77@gmail.com">linhongda77@gmail.com</a></li>
   <li>🌱 Languages and tools: </li>
- 
 </ul>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,androidstudio,blender,cs,cpp,py,java,react,unity,git,linux)](https://skillicons.dev)
