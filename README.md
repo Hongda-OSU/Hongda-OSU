@@ -12,7 +12,7 @@
 
 <ul>
   <li>💻 My website: <a href="https://hongdalin.me" target="_blank" rel="noopener noreferrer">hongdalin.me</a></li>
-  <li>👨‍💻 My blog: <a href="https://hongda-osu.github.io/" target="_blank" rel="noopener noreferrer">HD Blog (Chinese, Developing!)</a></li>
+  <li>👨‍💻 My blog: <a href="https://hongda-osu.github.io/" target="_blank" rel="noopener noreferrer">HD Blog (Chinese, Developing)</a></li>
   <li>📧 How to reach me: <a href="mailto:linhongda77@gmail.com">linhongda77@gmail.com</a></li>
   <li>🌱 Languages and tools: </li>
 </ul>
