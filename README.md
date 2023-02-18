@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linhongda77@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Linkda52/)
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hongda-OSU&hide=issues,contribs&count_private=true&show_icons=true&theme=swift">
+<!-- <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hongda-OSU&hide=issues,contribs&count_private=true&show_icons=true&theme=swift"> -->
 
 <h2>About Me  <img src="https://user-images.githubusercontent.com/67817916/206413477-c3eb65d9-bb02-47d3-baa0-a99e580b3301.GIF" width="48px"></h2>
 
