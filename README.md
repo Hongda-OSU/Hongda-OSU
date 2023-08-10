@@ -1,5 +1,5 @@
 <h1>𝗛i! <img src="https://user-images.githubusercontent.com/67817916/206375109-a3659a05-e14d-4412-a0e7-65a14e6814fc.GIF" width="48px"></h1>
-<p><em>I'm Hongda Lin. A senior CSE student who interests in software and gaming industries.</em></p>
+<p><em>I'm Hongda Lin. A master student who interests in software and gaming industries.</em></p>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hongda-OSU)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongda-lin/)
