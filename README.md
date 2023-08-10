@@ -19,4 +19,4 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,androidstudio,blender,cs,cpp,py,java,react,unity,git,linux)
 
-⭐️ From [Hongda Lin](https://github.com/Hongda-OSU) <img src="https://user-images.githubusercontent.com/67817916/206419059-ed583160-d997-4b07-984d-2a20952d0393.GIF" width="48px">
+⭐️ From HD Lin <img src="https://user-images.githubusercontent.com/67817916/206419059-ed583160-d997-4b07-984d-2a20952d0393.GIF" width="48px">
