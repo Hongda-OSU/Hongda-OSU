@@ -1,4 +1,4 @@
-<h1>𝗛i! <img src="https://user-images.githubusercontent.com/67817916/206375109-a3659a05-e14d-4412-a0e7-65a14e6814fc.GIF" width="48px"></h1>
+<h1>𝗛i!</h1>
 <p><em>I'm Hongda Lin. A master student who interests in Web3D and AI-powered Assistant Development.</em></p>
 <p><em>"Three.js enthusiast, Lived2D explorer, Blender apprentice"</em></p>
 
@@ -9,7 +9,7 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hongda-OSU&hide=issues,contribs&count_private=true&show_icons=true&theme=default"> -->
 
-<h2>About Me  <img src="https://user-images.githubusercontent.com/67817916/206413477-c3eb65d9-bb02-47d3-baa0-a99e580b3301.GIF" width="48px"></h2>
+<h2>About Me</h2>
 
 <ul>
   <li>💻 My portfolio: <a href="https://hongdalin.me" target="_blank" rel="noopener noreferrer">hongdalin.me</a></li>
