@@ -13,7 +13,7 @@
 
 <ul>
   <li>💻 My portfolio: <a href="https://hongdalin.me" target="_blank" rel="noopener noreferrer">hongdalin.me</a></li>
-  <li>👨‍💻 Blogging: <a href="/" target="_blank" rel="noopener noreferrer">鴻鵠誌達 (Private)</a></li>
+  <li>👨‍💻 Blogging: <a href="https://github.com/Hongda-OSU" target="_blank" rel="noopener noreferrer">鴻鵠誌達 (Private)</a></li>
   <li>📧 How to reach me: <a href="mailto:linhongda77@gmail.com">linhongda77@gmail.com</a></li>
   <li>🌱 Languages and tools: </li>
 </ul>
