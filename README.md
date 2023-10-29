@@ -15,7 +15,7 @@
   <li>💻 My portfolio: <a href="https://hongdalin.me" target="_blank" rel="noopener noreferrer">hongdalin.me</a></li>
   <li>👨‍💻 Blogging: <a href="https://hongdalin.blog" target="_blank" rel="noopener noreferrer">鴻鵠誌達</a></li>
   <li>📧 How to reach me: <a href="mailto:linhongda77@gmail.com">linhongda77@gmail.com</a></li>
-  <li>👍 Have extensive experience working with tech companies and startups. </li>
+  <li>👍 Extensive experience working with tech companies and startups. </li>
   <li>🌱 Programming languages and tools: </li>
 </ul>
 
