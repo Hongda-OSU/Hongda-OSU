@@ -14,7 +14,7 @@
 <ul>
   <li>💻 My portfolio: <a href="https://hongdalin.me" target="_blank" rel="noopener noreferrer">hongdalin.me</a></li>
   <li>👨‍💻 Blogging: <a href="https://hongdalin.blog" target="_blank" rel="noopener noreferrer">鴻鵠誌達</a></li>
-  <li>👍 Extensive experience working with tech companies and startups. </li>
+  <li>👍 Extensive experience working with startups and real enterprises. </li>
   <li>🌱 Programming languages and tools: </li>
 </ul>
 
