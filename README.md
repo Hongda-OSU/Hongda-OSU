@@ -20,4 +20,10 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,androidstudio,blender,cs,cpp,py,java,react,unity,git,linux,aws,azure,docker,dotnet,express,figma,firebase,gitlab,gulp,kubernetes,materialui,mysql,nodejs,postgres,redux,ruby,threejs,vite,d3,postman)
 
-⭐️ From [Hongda]() <img src="https://user-images.githubusercontent.com/67817916/206419059-ed583160-d997-4b07-984d-2a20952d0393.GIF" width="48px">
+<h2>Certifications</h2>
+
+<a href="https://www.credly.com/badges/c3a199df-cd51-40f2-ae6f-97b65f5a9119/linked_in_profile">
+  <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/img1_IxJDKJpxfzc7SrpzOzyQ5w.png" width="96px">
+</a>
+
+⭐️ From [Hongda Lin]() <img src="https://user-images.githubusercontent.com/67817916/206419059-ed583160-d997-4b07-984d-2a20952d0393.GIF" width="48px">
