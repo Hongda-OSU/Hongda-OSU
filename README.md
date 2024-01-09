@@ -25,5 +25,3 @@
 <a href="https://www.credly.com/badges/c3a199df-cd51-40f2-ae6f-97b65f5a9119/linked_in_profile">
   <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/img1_IxJDKJpxfzc7SrpzOzyQ5w.png" width="128px">
 </a>
-
-⭐️ From [Hongda Lin]() <img src="https://user-images.githubusercontent.com/67817916/206419059-ed583160-d997-4b07-984d-2a20952d0393.GIF" width="48px">
