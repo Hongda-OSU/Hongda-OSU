@@ -1,5 +1,5 @@
 <h1>𝗛i!</h1>
-<p><em>I'm Hongda Lin. A normal boy who interests in Web3D and AI-powered Assistant Development.</em></p>
+<p><em>I'm Hongda Lin. A dude who interests in Web3D and AI-powered Assistant Development.</em></p>
 <p><em>"Three.js enthusiast, Lived2D explorer, Blender apprentice"</em></p>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hongda-OSU)
