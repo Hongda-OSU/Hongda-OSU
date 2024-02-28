@@ -1,5 +1,5 @@
 <h1>𝗛i!</h1>
-<p><em>A boy Interested in Web3D, Web Design, and AI-powered Assistant Development.</em></p>
+<p><em>Interested in Web3D, Cool Web Design, and AI-powered Assistant Development.</em></p>
 <p><em>"Three.js enthusiast, Lived2D explorer, Blender apprentice"</em></p>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hongda-OSU)
@@ -14,7 +14,7 @@
 <ul>
   <li>💻 My portfolio: <a href="https://hongdalin.me" target="_blank" rel="noopener noreferrer">hongdalin.me</a></li>
   <li>👨‍💻 Blogging (Chinese): <a href="https://hongdalin.blog" target="_blank" rel="noopener noreferrer">鴻鵠誌達</a></li>
-  <li>👍 Extensive experience working with startups and enterprises. </li>
+  <li>👍 Working with Startups and Enterprises </li>
   <li>🌱 Programming languages and tools: </li>
 </ul>
 
