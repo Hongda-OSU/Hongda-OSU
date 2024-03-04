@@ -20,9 +20,6 @@
         justify-content: center;
         background: white;
       }
-      
-     
-      }
     </style>
     <div class='body'>
        <h2 class="title">
