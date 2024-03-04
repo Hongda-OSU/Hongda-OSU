@@ -9,7 +9,7 @@
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hongda-OSU&hide=issues,contribs&count_private=true&show_icons=true&theme=default"> -->
 
-<h2>About Me</h2>
+<h3>About Me 😃</h3>
 
 <ul>
   <li>💻 My portfolio: <a href="https://hongdalin.me" target="_blank" rel="noopener noreferrer">hongdalin.me</a></li>
@@ -20,7 +20,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,androidstudio,blender,cs,cpp,py,java,react,unity,git,linux,aws,azure,docker,dotnet,express,figma,firebase,gitlab,gulp,kubernetes,materialui,mysql,nodejs,postgres,redux,ruby,threejs,vite,d3,postman)
 
-<h2>Certifications</h2>
+<h3>Certifications 👾</h3>
 
 <a href="https://www.credly.com/badges/c3a199df-cd51-40f2-ae6f-97b65f5a9119/linked_in_profile">
   <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/img1_IxJDKJpxfzc7SrpzOzyQ5w.png" width="96px">
