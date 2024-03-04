@@ -2,16 +2,34 @@
   <foreignObject width="100%" height="100%">
   <div xmlns="http://www.w3.org/1999/xhtml">
     <style>
-      body {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
+      * {
+        margin: 0;
+        padding: 0;
+        color: inherit;
+        text-decoration: none;
+        list-style: none;
+        outline: none;
+        box-sizing: border-box;
+      }
 
+      .body {
+        height: 400px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: white;
+      }
+      
+     
+      }
     </style>
     <div class='body'>
-   <iframe src="https://yisous.xyz/people" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+       <h2 class="title">
+    <span>
+      你会发现CSS是你永远学不会的语言
+    </span>
+  </h2>
     </div>
   </div>
   </foreignObject>
