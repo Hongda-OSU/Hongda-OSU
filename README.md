@@ -23,8 +23,7 @@
 <h3>Certifications 👾</h3>
 
 <span>
-  <a href="https://www.credly.com/badges/c3a199df-cd51-40f2-ae6f-97b65f5a9119/linked_in_profile">
-    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/img1_IxJDKJpxfzc7SrpzOzyQ5w.png" width="96px">
+  <a href="https://www.credly.com/badges/c3a199df-cd51-40f2-ae6f-97b65f5a9119/linked_in_profile" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/img1_IxJDKJpxfzc7SrpzOzyQ5w.png" width="90px">
   </a> 
-  <span>有点空哈</span>
 </span>
