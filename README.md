@@ -26,7 +26,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/fe0dcb87-9e48-48df-81d2-fe4d488e1ad0/public_url" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/img1_IxJDKJpxfzc7SrpzOzyQ5w.png" width="90px">
-  </a> 
+  </a>
   <a href="https://www.credly.com/badges/7742bbaf-1b8a-42a6-9e21-375baf7bb043/public_url" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage.png" width="90px">
   </a> 
