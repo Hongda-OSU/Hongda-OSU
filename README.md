@@ -1,3 +1,7 @@
+<div style="width: 100%;">
+  <img src="svg.svg" style="width: 100%;">
+</div> 
+
 <h1>𝗛i!</h1>
 <p><em>Interested in Web3D, Web Design, and Web-based AI-powered Assistant.</em></p>
 <p><em>"Three.js/R3F enthusiast, Lived2D explorer, Blender apprentice"</em></p>
@@ -18,7 +22,7 @@
   <li>🌱 Programming languages and tools: </li>
 </ul>
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,androidstudio,blender,cs,cpp,py,java,react,unity,git,linux,aws,azure,docker,dotnet,express,figma,firebase,gitlab,gulp,kubernetes,materialui,mysql,nodejs,postgres,redux,ruby,threejs,vite,d3,postman)
+<img src="https://skillicons.dev/icons?i=js,ts,androidstudio,blender,cs,cpp,py,java,react,unity,git,linux,aws,azure,docker,dotnet,express,figma,firebase,gitlab,gulp,kubernetes,materialui,mysql,nodejs,postgres,redux,ruby,threejs,vite,d3,postman" alt="My Skills">
 
 
 <h3>Certifications 👾</h3>
@@ -32,9 +36,5 @@
   </a> 
 </span>
 
-<br>
 
-<!-- <div style="width: 100%;">
-    <img src="svg.svg" style="width: 100%;">
-</div> -->
 
