@@ -32,7 +32,9 @@
   </a> 
 </span>
 
-<div style="width: 100%;">
+<br>
+
+<!-- <div style="width: 100%;">
     <img src="svg.svg" style="width: 100%;">
-</div>
+</div> -->
 
