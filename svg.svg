@@ -11,7 +11,6 @@
         outline: none;
         box-sizing: border-box;
       }
-
       .body {
         height: 400px;
         width: 100%;
@@ -22,11 +21,20 @@
       }
     </style>
     <div class='body'>
-       <h2 class="title">
+       <h1>
         <span>
-          你会发现CSS是你永远学不会的语言
+           學
         </span>
-       </h2>
+         <span>
+           無
+        </span>
+         <span>
+           止
+        </span>
+         <span>
+           境
+        </span>
+       </h1>
     </div>
   </div>
   </foreignObject>
