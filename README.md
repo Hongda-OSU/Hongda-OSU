@@ -22,7 +22,7 @@
   <li>🌱 Programming languages and tools: </li>
 </ul>
 
-<img style="width: 80%;" src="https://skillicons.dev/icons?i=js,ts,androidstudio,blender,cs,cpp,py,java,react,unity,git,linux,aws,azure,docker,dotnet,express,figma,firebase,gitlab,gulp,kubernetes,materialui,mysql,nodejs,postgres,redux,ruby,threejs,vite,d3,postman" alt="My Skills">
+<img style="width: 90%;" src="https://skillicons.dev/icons?i=js,ts,androidstudio,blender,cs,cpp,py,java,react,unity,git,linux,aws,azure,docker,dotnet,express,figma,firebase,gitlab,gulp,kubernetes,materialui,mysql,nodejs,postgres,redux,ruby,threejs,vite,d3,postman" alt="My Skills">
 
 <h3>Certifications 👾</h3>
 <span>
