@@ -18,22 +18,24 @@
         align-items: center;
         justify-content: center;
         background: white;
-        font-size: calc(4vw + 4vh + 2vmin);
+      }
+      .text {
+        font-size: clamp(16px, calc(20px + (36–20) * (100vw - 768px)/(1920–768)), 48px);
         font-weight: bold;
       }
     </style>
     <div class='body'>
        <h1>
-        <span>
+        <span class='text'>
            學
         </span>
-         <span>
+         <span class='text'>
            無
         </span>
-         <span>
+         <span class='text'>
            止
         </span>
-         <span>
+         <span class='text'>
            境
         </span>
        </h1>
