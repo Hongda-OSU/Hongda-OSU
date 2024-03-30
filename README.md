@@ -19,7 +19,7 @@
   <li>💻 My portfolio: <a href="https://hongdalin.me" target="_blank" rel="noopener noreferrer">hongdalin.me</a></li>
   <li>👨‍💻 部落格: <a href="https://hongdalin.blog" target="_blank" rel="noopener noreferrer">鴻鵠誌達</a></li>
   <li>👍 Experience with startups and enterprises </li>
-  <li>🌱 Programming languages and tools: </li>
+  <li>🌱 Programming languages and tools </li>
 </ul>
 
 <img style="width: 90%;" src="https://skillicons.dev/icons?i=js,ts,androidstudio,blender,cs,cpp,py,java,react,unity,git,linux,aws,azure,docker,dotnet,express,figma,firebase,gitlab,gulp,kubernetes,materialui,mysql,nodejs,postgres,redux,ruby,threejs,vite,d3,postman" alt="My Skills">
