@@ -18,6 +18,8 @@
         align-items: center;
         justify-content: center;
         background: white;
+        font-size: calc(4vw + 4vh + 2vmin);
+        font-weight: bold;
       }
     </style>
     <div class='body'>
