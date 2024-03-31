@@ -22,15 +22,15 @@
   <li>🌱 Programming languages and tools </li>
 </ul>
 
-<img style="width: 90%;" src="https://skillicons.dev/icons?i=js,ts,androidstudio,blender,cs,cpp,py,java,react,unity,git,linux,aws,azure,docker,dotnet,express,figma,firebase,gitlab,gulp,kubernetes,materialui,mysql,nodejs,postgres,redux,ruby,threejs,vite,d3,postman" alt="My Skills">
+<img style="width: 88%;" src="https://skillicons.dev/icons?i=js,ts,androidstudio,blender,cs,cpp,py,java,react,unity,git,linux,aws,azure,docker,dotnet,express,figma,firebase,gitlab,gulp,kubernetes,materialui,mysql,nodejs,postgres,redux,ruby,threejs,vite,d3,postman" alt="My Skills">
 
 <h3>Certifications 👾</h3>
 <span>
   <a href="https://www.credly.com/badges/fe0dcb87-9e48-48df-81d2-fe4d488e1ad0/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/img1_IxJDKJpxfzc7SrpzOzyQ5w.png" width="90px">
+    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/img1_IxJDKJpxfzc7SrpzOzyQ5w.png" width="130px">
   </a>
   <a href="https://www.credly.com/badges/7742bbaf-1b8a-42a6-9e21-375baf7bb043/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage.png" width="90px">
+    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage.png" width="130px">
   </a> 
 </span>
 
