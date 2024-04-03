@@ -31,11 +31,12 @@
         font-weight: 400;
         position: absolute;
         top: 50%;
-        right: 22%;
+        right: 21%;
         bottom: 0;
-        width: 2em;
+        width: 2.5em;
         white-space: normal;
         font-size: 15px;
+        letter-spacing: 1.2px;
         line-height: 1.2;
       }
     </style>
