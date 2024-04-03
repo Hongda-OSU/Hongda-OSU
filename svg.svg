@@ -28,7 +28,7 @@
       }
       #last::before {
         content: "鴻鵠誌達";
-        font-weight: light;
+        font-weight: 600;
         position: absolute;
         top: 50%;
         right: 20%;
@@ -36,8 +36,8 @@
         width: 2.5em;
         white-space: normal;
         font-size: 15px;
-        letter-spacing: 1.2px;
-        line-height: 1.2;
+        letter-spacing: 1.1px;
+        line-height: 1;
       }
     </style>
     <div class='body'>
