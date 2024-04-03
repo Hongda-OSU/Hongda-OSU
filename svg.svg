@@ -38,6 +38,9 @@
         font-size: 15px;
         letter-spacing: 1.2px;
         line-height: 1.2;
+        -webkit-text-fill-color: black;
+        -webkit-text-stroke: 1px black;
+        -webkit-background-clip: text;
       }
     </style>
     <div class='body'>
