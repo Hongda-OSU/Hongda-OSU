@@ -18,7 +18,7 @@
         align-items: center;
         justify-content: center;
         background: white;
-        font-size: calc(25px + 0.390625vw);
+        font-size: calc(35px + 0.390625vw);
         font-weight: bold;
       }
       .text {
@@ -31,12 +31,12 @@
         font-weight: 400;
         position: absolute;
         top: 53%;
-        right: 22%;
+        right: 12%;
         bottom: 0;
         width: 2em;
         white-space: normal;
-        font-size: max(1.5rem / 6, 10vw / 6);
-        line-height: 1;
+        font-size: 20px;
+        line-height: 1.2;
       }
     </style>
     <div class='body'>
