@@ -30,7 +30,7 @@
         content: "鴻鵠誌達";
         font-weight: 600;
         position: absolute;
-        top: 50%;
+        top: 52%;
         right: 20%;
         bottom: 0;
         width: 2.5em;
