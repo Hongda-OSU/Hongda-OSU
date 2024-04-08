@@ -31,7 +31,7 @@
         font-weight: 600;
         position: absolute;
         top: 52%;
-        right: 18%;
+        right: 19%;
         bottom: 0;
         width: 2.5em;
         white-space: normal;
