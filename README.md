@@ -16,7 +16,7 @@
 <h3>About Me 😃</h3>
 
 <ul>
-  <li>💻 My portfolio: <a href="https://hongdalin.me" target="_blank" rel="noopener noreferrer">hongdalin.me</a> | <a href="https://personal-portfolio-hongdalin.vercel.app/" target="_blank" rel="noopener noreferrer">new</a></li>
+  <li>💻 My portfolio: <a href="https://hongdalin.me" target="_blank" rel="noopener noreferrer">old</a> | <a href="https://personal-portfolio-hongdalin.vercel.app/" target="_blank" rel="noopener noreferrer">new</a></li>
   <li>👨‍💻 部落格: <a href="https://hongdalin.blog" target="_blank" rel="noopener noreferrer">鴻鵠誌達</a></li>
   <li>👍 Experience with startups and enterprises </li>
   <li>🌱 Programming languages and tools </li>
