@@ -32,6 +32,9 @@
   <a href="https://www.credly.com/badges/7742bbaf-1b8a-42a6-9e21-375baf7bb043/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage.png" width="125px">
   </a> 
+   <a href="https://www.credly.com/badges/1d300a8c-c0f9-46fd-bcf4-de38cc340f48/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage3.png" width="125px">
+  </a> 
 </span>
 
 
