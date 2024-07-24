@@ -35,6 +35,9 @@
    <a href="https://www.credly.com/badges/1d300a8c-c0f9-46fd-bcf4-de38cc340f48/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage3.png" width="125px">
   </a> 
+   <a href="https://learn.microsoft.com/api/credentials/share/en-us/HongdaLin-7770/2C968F73FA24A53D?sharingId=3BB2BBD6DEB1ACDC" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgmicrosoft-certified-fundamentals-badge.svg" width="125px">
+  </a> 
 </span>
 
 
