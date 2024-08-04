@@ -3,7 +3,7 @@
 </div> 
 
 <h1>𝗛i!</h1>
-<p><em>Interested in Web3D, Web Design, and Web-based AI-powered Assistant.</em></p>
+<p><em>Interested in Web3D, Web Design, and Web-based AI-powered Assistant</em></p>
 <p><em>"Three.js/R3F enthusiast, Lived2D explorer, Blender apprentice"</em></p>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hongda-OSU)
