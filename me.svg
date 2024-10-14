@@ -10,6 +10,7 @@
           list-style: none;
           outline: none;
           box-sizing: border-box;
+          background: #fff;
         }
         .container {
           display: flex;
