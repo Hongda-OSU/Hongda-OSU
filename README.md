@@ -4,7 +4,7 @@
 
 <h1>𝗛i!</h1>
 <p><em>Interested in Web Design, WebGL and Three.js/R3F</em></p>
-<p><em>Learning Blender, AI Art Gen, AI Music Gen, Shader...</em></p>
+<p><em>Learning Blender, AI Art Gen, AI Music Gen, Live2D, Shader, CSS Skills...</em></p>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hongda-OSU)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongda-lin/)
