@@ -3,12 +3,11 @@
 </div> 
 
 <h1>𝗛i!</h1>
-<p><em>Interested in Web3D, Web Design, and Web-based AI-powered Assistant</em></p>
-<p><em>"Three.js/R3F enthusiast, Lived2D explorer, Blender apprentice"</em></p>
+<p><em>Interested in Web Design, WebGL and Three.js/R3F</em></p>
+<p><em>Learning Blender, AI Art Gen, AI Music Gen, Shader...</em></p>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hongda-OSU)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongda-lin/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linhongda77@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Linkda52/)
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hongda-OSU&hide=issues,contribs&count_private=true&show_icons=true&theme=default"> -->
