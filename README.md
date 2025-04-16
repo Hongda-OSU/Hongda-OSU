@@ -37,6 +37,9 @@
    <a href="https://learn.microsoft.com/api/credentials/share/en-us/HongdaLin-7770/2C968F73FA24A53D?sharingId=3BB2BBD6DEB1ACDC" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgmicrosoft-certified-fundamentals-badge.svg" width="125px">
   </a> 
+  <a href="https://www.credly.com/badges/585be8b1-c936-4060-8c19-39c05ea12c81/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/Hongda-Lin/ImageStore/master/imgcloud-digital-leader-certification.png" width="125px">
+  </a> 
 </span>
 
 
