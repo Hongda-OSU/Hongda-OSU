@@ -5,8 +5,9 @@
 # Hi there! 👋
 
 <div align="center">
-  <em>🎨 Passionate about Web Design, WebGL and Three.js/R3F</em><br>
-  <em>🌱 Currently exploring Blender, AI Art Generation, AI Music Generation, Live2D, Shaders & Advanced CSS</em>
+  <em>💻 Full-Stack Software Engineer | Cloud Architecture Specialist</em><br>
+  <em>🚀 Northwestern MS CS Graduate | Currently @ The Aspen Group</em><br>
+  <em>🎨 Passionate about Web Design, WebGL, Three.js/R3F, AI/ML Integration</em>
 </div>
 
 <div align="center">
@@ -20,40 +21,45 @@
 
 ## 🚀 About Me
 
-- 💼 **Portfolio**: [hongdalin.me](https://hongdalin.me) - *Showcasing my latest work and projects*
-- 📝 **Blog**: [鴻鵠誌達](https://hongdalin.blog) - *Sharing insights and learnings*
-- 🏢 **Experience**: Worked with both startups and enterprise companies
-- 💡 **Focus**: Creating engaging web experiences with modern technologies
-- 🎯 **Goal**: Bridging the gap between design and development
+- 💼 **Currently**: Software Engineer @ **The Aspen Group** (Chicago) - Building microservices with C#/.NET
+- 🎓 **Education**: MS Computer Science @ **Northwestern University** (GPA: 3.95) | BS CSE @ **Ohio State** (GPA: 3.827)
+- 💡 **Expertise**: Microservices Architecture, Cloud Infrastructure (AWS/GCP), AI-powered systems
+- 🌟 **Recent Work**: Architected 8+ microservices, migrated 50GB+ data to GCP, built AI knowledge retrieval systems
+- 📝 **Blog**: [鴻鵠誌達](https://hongdalin.blog) - *Sharing technical insights and learnings*
+- 🎯 **Passion**: Creating scalable web experiences and bridging design with engineering
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,threejs,nodejs,python,java,cpp,cs&theme=light" alt="Core Technologies" title="Core Technologies"/><br>
-  <img src="https://skillicons.dev/icons?i=blender,unity,androidstudio,figma,d3,vite,gulp,postman&theme=light" alt="Development Tools" title="Development Tools"/><br>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,firebase,mysql,postgres,linux&theme=light" alt="Cloud & DevOps" title="Cloud & DevOps"/><br>
-  <img src="https://skillicons.dev/icons?i=git,gitlab,materialui,redux,express,dotnet,ruby&theme=light" alt="Frameworks & Others" title="Frameworks & Others"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,python,fastapi,sql&theme=light" alt="Core Technologies" title="Core Technologies"/><br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,postgres,redis,grafana,unity&theme=light" alt="Cloud & Infrastructure" title="Cloud & Infrastructure"/><br>
+  <img src="https://skillicons.dev/icons?i=threejs,blender,figma,tailwind,redux,nodejs,express,graphql&theme=light" alt="Frontend & Creative" title="Frontend & Creative"/><br>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vite,materialui,d3,androidstudio&theme=light" alt="Tools & Frameworks" title="Tools & Frameworks"/>
 </div>
 
-## 🏆 Certifications
+## 🏆 Professional Certifications
 
 <div align="center">
-  <a href="https://www.credly.com/badges/fe0dcb87-9e48-48df-81d2-fe4d488e1ad0/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/img1_IxJDKJpxfzc7SrpzOzyQ5w.png" width="100px" alt="AWS Certification">
+  <a href="https://www.credly.com/badges/fe0dcb87-9e48-48df-81d2-fe4d488e1ad0/public_url" target="_blank" title="AWS Certified Cloud Practitioner">
+    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/img1_IxJDKJpxfzc7SrpzOzyQ5w.png" width="100px" alt="AWS Cloud Practitioner">
   </a>
-  <a href="https://www.credly.com/badges/7742bbaf-1b8a-42a6-9e21-375baf7bb043/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage.png" width="100px" alt="AWS Certification">
+  <a href="https://www.credly.com/badges/7742bbaf-1b8a-42a6-9e21-375baf7bb043/public_url" target="_blank" title="AWS Certified Solutions Architect">
+    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage.png" width="100px" alt="AWS Solutions Architect">
   </a>
-  <a href="https://www.credly.com/badges/1d300a8c-c0f9-46fd-bcf4-de38cc340f48/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage3.png" width="100px" alt="AWS Certification">
+  <a href="https://www.credly.com/badges/1d300a8c-c0f9-46fd-bcf4-de38cc340f48/public_url" target="_blank" title="AWS Certified Developer">
+    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage3.png" width="100px" alt="AWS Developer">
   </a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/HongdaLin-7770/2C968F73FA24A53D?sharingId=3BB2BBD6DEB1ACDC" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgmicrosoft-certified-fundamentals-badge.svg" width="100px" alt="Microsoft Certification">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/HongdaLin-7770/2C968F73FA24A53D?sharingId=3BB2BBD6DEB1ACDC" target="_blank" title="Microsoft Azure Fundamentals">
+    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgmicrosoft-certified-fundamentals-badge.svg" width="100px" alt="Azure Fundamentals">
   </a>
-  <a href="https://www.credly.com/badges/585be8b1-c936-4060-8c19-39c05ea12c81/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hongda-Lin/ImageStore/master/imgcloud-digital-leader-certification.png" width="100px" alt="Google Cloud Certification">
+  <a href="https://www.credly.com/badges/585be8b1-c936-4060-8c19-39c05ea12c81/public_url" target="_blank" title="Google Cloud Digital Leader">
+    <img src="https://raw.githubusercontent.com/Hongda-Lin/ImageStore/master/imgcloud-digital-leader-certification.png" width="100px" alt="Google Cloud Digital Leader">
   </a>
 </div>
+
+**✅ AWS Certified:** Cloud Practitioner | Solutions Architect | Developer  
+**✅ Microsoft Certified:** Azure Fundamentals  
+**✅ Google Cloud:** Digital Leader Certification
 
 ## 📊 GitHub Stats
 
@@ -65,6 +71,6 @@
 ---
 
 <div align="center">
-  <em>💭 "The best way to predict the future is to create it."</em><br>
-  <sub>Thanks for visiting! Feel free to connect with me 🚀</sub>
+  <em>💭 "Architecting scalable solutions, one microservice at a time."</em><br>
+  <sub>🚀 Open to collaborating on innovative projects | Feel free to connect!</sub>
 </div>
