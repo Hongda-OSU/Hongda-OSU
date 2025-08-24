@@ -2,7 +2,7 @@
   <img src="me.svg" style="width: 100%;">
 </div> 
 
-# 𝗛i! 👋
+# 𝗛i!
 
 *💻 Full-Stack Software Engineer @ The Aspen Group*  
 
@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongda-lin/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hongdalin.me)
 
-## About Me 😃
+## ABOUT ME
 
 💻 **Portfolio**: [hongdalin.me](https://hongdalin.me) - *Showcasing my latest work and projects*
 
@@ -25,7 +25,7 @@
 
 <img style="width: 90%;" src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,python,fastapi,aws,gcp,docker,terraform,postgres,unity,threejs,blender,figma,tailwind,redux,nodejs,express,graphql,git,github,postman,vite,materialui,d3" alt="My Skills">
 
-## Certifications 👾
+## COLLECTIONS
 
 <div align="center">
   <a href="https://www.credly.com/badges/fe0dcb87-9e48-48df-81d2-fe4d488e1ad0/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
