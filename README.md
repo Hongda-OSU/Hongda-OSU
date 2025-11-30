@@ -4,30 +4,31 @@
 
 # 𝗛i!
 
-*💻 Full-Stack Software Engineer @ The Aspen Group*  
+💻 Backend Software Engineer in Chicago
 
-*🎓 Northwestern MS CS Graduate | Ohio State BS CSE*  
+🎓 Northwestern MS CS Graduate | Ohio State BS CSE
 
-*🚀 Passionate about Web Design, WebGL, Three.js/R3F, and AI/ML Integration*
+🚀 Passionate about Web Design, WebGL, Three.js/R3F, and AI/ML Integration
 
+<br>
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hongda-OSU)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hongda-lin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://hongdalin.me)
+## Stuff to share
 
-## ABOUT ME
+💻 Portfolio: [hongdalin.me](https://hongdalin.me) - (Still working on it)
 
-💻 **Portfolio**: [hongdalin.me](https://hongdalin.me) - *Showcasing my latest work and projects*
+👨‍💻 Blog: [鴻鵠誌達](https://hongdalin.blog) - Written in Chinese mostly
 
-👨‍💻 **部落格**: [鴻鵠誌達](https://hongdalin.blog) - *Sharing technical insights and learnings*
+<br>
 
-## Tech Stack & Tools 🛠️
+## Stuff I use
 
 <img style="width: 90%;" src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,python,fastapi,aws,gcp,docker,terraform,postgres,unity,threejs,blender,figma,tailwind,redux,nodejs,express,graphql,git,github,postman,vite,materialui,d3" alt="My Skills">
 
-## COLLECTIONS
+<br>
 
-<div align="center">
+## Accoumplish cert for fun
+
+<div>
   <a href="https://www.credly.com/badges/fe0dcb87-9e48-48df-81d2-fe4d488e1ad0/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/img1_IxJDKJpxfzc7SrpzOzyQ5w.png" width="110px">
   </a>
@@ -45,9 +46,3 @@
   </a> 
 </div>
 
----
-
-<div align="center">
-  <em>💭 "Building scalable solutions and beautiful experiences"</em><br>
-  <sub>🚀 Always open to interesting collaborations!</sub>
-</div>
