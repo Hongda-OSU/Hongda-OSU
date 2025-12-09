@@ -12,7 +12,7 @@
 
 <br>
 
-## Stuff to share
+## About Me
 
 💻 Portfolio: [hongdalin.me](https://hongdalin.me) - (Still working on it)
 
@@ -20,13 +20,11 @@
 
 <br>
 
-## Stuff I use
+## Tech Stack
 
 <img style="width: 90%;" src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,python,fastapi,aws,gcp,docker,terraform,postgres,unity,threejs,blender,figma,tailwind,redux,nodejs,express,graphql,git,github,postman,vite,materialui,d3" alt="My Skills">
 
 <br>
-
-## Accoumplish cert for fun
 
 <div>
   <a href="https://www.credly.com/badges/fe0dcb87-9e48-48df-81d2-fe4d488e1ad0/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
