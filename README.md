@@ -14,9 +14,9 @@
 
 ## About Me
 
-💻 Portfolio: [hongdalin.me](https://hongdalin.me) - (Still working on it)
+💻 Portfolio: [hongdalin.me](https://hongdalin.me) - (Still working on it...)
 
-👨‍💻 Blog: [鴻鵠誌達](https://hongdalin.blog) - Written in Chinese mostly
+👨‍💻 Blog: [鴻鵠誌達](https://hongdalin.blog)
 
 <br>
 
