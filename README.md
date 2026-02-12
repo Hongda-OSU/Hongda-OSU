@@ -4,19 +4,19 @@
 
 # 𝗛i!
 
-💻 Backend Software Engineer in Chicago
+- 💻 I'm a Backend Software Engineer in Chicago
 
-🎓 Northwestern MS CS Graduate | Ohio State BS CSE
+- 🎓 Northwestern MS CS | Ohio State BS CSE
 
-🚀 Passionate about Web Design, WebGL, Three.js/R3F, and AI/ML Integration
+- 🚀 Love Web Design, WebGL, Three.js/R3F, and AI/ML application
 
 <br>
 
 ## About Me
 
-💻 Portfolio: [hongdalin.me](https://hongdalin.me) - (Still working on it...)
+- 💻 Portfolio: [hongdalin.me](https://hongdalin.me)
 
-👨‍💻 Blog: [鴻鵠誌達](https://hongdalin.blog)
+- 👨‍💻 Blog: [鴻鵠誌達](https://hongdalin.blog)
 
 <br>
 
