@@ -8,7 +8,7 @@
 
 - 🎓 Northwestern MS CS | Ohio State BS CSE
 
-- 🚀 Love Web Design, WebGL, Three.js/R3F, and AI/ML application
+- 🚀 Love Basketball, Hiking, and Learn New Stuff 
 
 <br>
 
