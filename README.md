@@ -8,7 +8,7 @@
 
 - 🎓 Northwestern MS CS | Ohio State BS CSE
 
-- 🚀 Love Basketball, Hiking, and Learn New Stuff 
+- 🚀 Love 🏀, ⛰️, and 📖
 
 <br>
 
