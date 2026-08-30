@@ -1,54 +1,47 @@
-<div style="width: 100%;">
-  <img src="me.svg" style="width: 100%;">
-</div> 
+<div align="center">
+  <img src="me.svg" alt="Hongda Lin" width="100%">
+</div>
 
-# 𝗛i!
+# Hi, I'm Hongda 👋
 
-- 💻 I'm a Backend Software Engineer in Chicago
+Backend Software Engineer based in Chicago, building reliable, scalable systems.
 
-- 🎓 Northwestern MS CS | Ohio State BS CSE
-
-- 🚀 Love 🏀, ⛰️, and 📖
-
-<br>
-
-## About Me
-
-- 💻 Portfolio: [hongdalin.me](https://hongdalin.me)
-
-- 👨‍💻 Blog: [鴻鵠誌達](https://hongdalin.blog)
-
-<br>
+- 🎓 M.S. Computer Science, **Northwestern University** · B.S. CSE, **The Ohio State University**
+- 🌐 Portfolio: [hongdalin.me](https://hongdalin.me)
+- 📝 Blog: [鴻鵠誌達](https://hongdalin.blog)
+- 🏀 Off the clock: basketball, hiking, and reading
 
 ## Tech Stack
 
-<img style="width: 90%;" src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,python,fastapi,aws,gcp,docker,terraform,postgres,unity,threejs,blender,figma,tailwind,redux,nodejs,express,graphql,git,github,postman,vite,materialui,d3" alt="My Skills">
+**Languages** &nbsp; C#, Python, TypeScript, JavaScript
 
-<br><br>
+**Backend** &nbsp; .NET, FastAPI, Node.js, Express, GraphQL
 
-<div>
-  <a href="https://www.credly.com/badges/fe0dcb87-9e48-48df-81d2-fe4d488e1ad0/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/img1_IxJDKJpxfzc7SrpzOzyQ5w.png" width="110px">
-  </a>
-  
-  <a href="https://www.credly.com/badges/7742bbaf-1b8a-42a6-9e21-375baf7bb043/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage.png" width="110px">
-  </a> 
-  
-  <a href="https://www.credly.com/badges/1d300a8c-c0f9-46fd-bcf4-de38cc340f48/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage3.png" width="110px">
-  </a> 
-  
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/HongdaLin-7770/2C968F73FA24A53D?sharingId=3BB2BBD6DEB1ACDC" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgmicrosoft-certified-fundamentals-badge.svg" width="110px">
-  </a> 
-  
-  <a href="https://www.credly.com/badges/585be8b1-c936-4060-8c19-39c05ea12c81/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/Hongda-Lin/ImageStore/master/imgcloud-digital-leader-certification.png" width="105px">
-  </a> 
+**Frontend** &nbsp; React, Next.js, Redux, Tailwind, Material UI, Vite, Three.js, D3
 
-  <a href="https://www.credly.com/badges/ac999408-dae8-4cf9-8712-f8321def97d0/public_url" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/Hongda-Lin/ImageStore/master/image/image.png" width="110px">
-  </a> 
-</div>
+**Cloud & Infrastructure** &nbsp; AWS, GCP, Docker, Terraform, PostgreSQL
 
+**Tools** &nbsp; Git, GitHub, Postman, Figma, Unity, Blender
+
+<img src="https://skillicons.dev/icons?i=cs,python,ts,js,dotnet,fastapi,nodejs,express,graphql,react,nextjs,redux,tailwind,materialui,vite,threejs,d3,aws,gcp,docker,terraform,postgres,git,github,postman,figma,unity,blender" alt="Tech stack icons">
+
+## Certifications
+
+<a href="https://www.credly.com/badges/fe0dcb87-9e48-48df-81d2-fe4d488e1ad0/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/img1_IxJDKJpxfzc7SrpzOzyQ5w.png" width="105" alt="Certification">
+</a>
+<a href="https://www.credly.com/badges/7742bbaf-1b8a-42a6-9e21-375baf7bb043/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage.png" width="105" alt="Certification">
+</a>
+<a href="https://www.credly.com/badges/1d300a8c-c0f9-46fd-bcf4-de38cc340f48/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgimage3.png" width="105" alt="Certification">
+</a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/HongdaLin-7770/2C968F73FA24A53D?sharingId=3BB2BBD6DEB1ACDC" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Hongda-OSU/PicGo-2.3.1/master/imgmicrosoft-certified-fundamentals-badge.svg" width="105" alt="Microsoft Certified Fundamentals">
+</a>
+<a href="https://www.credly.com/badges/585be8b1-c936-4060-8c19-39c05ea12c81/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Hongda-Lin/ImageStore/master/imgcloud-digital-leader-certification.png" width="100" alt="Google Cloud Digital Leader">
+</a>
+<a href="https://www.credly.com/badges/ac999408-dae8-4cf9-8712-f8321def97d0/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Hongda-Lin/ImageStore/master/image/image.png" width="105" alt="Certification">
+</a>
